@@ -9,13 +9,5 @@ $(function(){
 			},
 			offset: 100
 		});
-		// $(this).addClass('visible animated').addClass(list_animate[~~(Math.random() * list_animate.length)])
 	})
 })
-
-// $(document).ready(function() {
-//     elemen.addClass("hidden").viewportChecker({
-// 		classToAdd: 'visible animated fadeIn',
-// 		offset: 100
-// 	});
-// });
