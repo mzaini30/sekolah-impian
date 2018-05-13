@@ -7,7 +7,7 @@ $(function(){
 			classToAdd: function(){
 				return 'visible animated ' + list_animate[~~(Math.random() * list_animate.length)]
 			},
-			offset: 100
+			offset: 90
 		});
 	})
 })
